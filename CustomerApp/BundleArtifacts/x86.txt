@@ -1,0 +1,2 @@
+MainPackage=C:\class\sdv701\mywork\CustomerApp\bin\x86\Debug\CustomerApp_1.0.2.0_x86_Debug.appx
+SymbolPackage=C:\class\sdv701\mywork\CustomerApp\AppPackages\CustomerApp_1.0.2.0_Debug_Test\CustomerApp_1.0.2.0_x86_Debug.appxsym

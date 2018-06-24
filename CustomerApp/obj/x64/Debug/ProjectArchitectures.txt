@@ -1,0 +1,1 @@
+C:\class\sdv701\mywork\CustomerApp\CustomerApp.csproj;x64

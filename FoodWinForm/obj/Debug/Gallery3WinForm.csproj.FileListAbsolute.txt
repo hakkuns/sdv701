@@ -1,0 +1,56 @@
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.csprojResolveAssemblyReference.cache
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmMain.resources
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.Properties.Resources.resources
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.csproj.GenerateResource.Cache
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe.config
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\bin\Debug\Gallery3WinForm.pdb
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\bin\Debug\Newtonsoft.Json.dll
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\bin\Debug\Newtonsoft.Json.xml
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.exe
+c:\Users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\Gallery3WinForm\obj\Debug\Gallery3WinForm.pdb
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe.config
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe.manifest
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Gallery3WinForm.application
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Gallery3WinForm.pdb
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\class\sdv701\tutrial3\Gallery3WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.csprojResolveAssemblyReference.cache
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmArtist.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmMain.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmPainting.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmPhotograph.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmSculpture.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmWork.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.Properties.Resources.resources
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.csproj.GenerateResource.Cache
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.exe.manifest
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.application
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.exe
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.pdb
+C:\class\sdv701\tutrial3\Gallery3WinForm\obj\Debug\Gallery3WinForm.InputBox.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmMain.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.InputBox.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.Properties.Resources.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.csproj.GenerateResource.Cache
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe.config
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe.manifest
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Gallery3WinForm.application
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Gallery3WinForm.exe
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Gallery3WinForm.pdb
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\class\sdv701\mywork\Gallery3WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.exe.manifest
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.application
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.exe
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.pdb
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmPlace.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmProduct.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmFruit.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmVegetable.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmMeat.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.frmOrder.resources
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.csproj.CoreCompileInputs.cache
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.csproj.CopyComplete
+C:\class\sdv701\mywork\Gallery3WinForm\obj\Debug\Gallery3WinForm.csprojAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomerApp.clsPlace">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerApp.clsAllProduct">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEACABQAAAABEAAAAAACAAAAAAAADAAAAAAAICAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerApp.clsOrder">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAAAQAAAAAECAAAAAAAAAAAAAABAAAAgAAIEAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Windows.UI.Xaml.Markup.IComponentConnector2">
+    <Position X="4.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

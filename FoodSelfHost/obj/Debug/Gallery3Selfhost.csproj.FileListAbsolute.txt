@@ -1,0 +1,27 @@
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.dll
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.SelfHost.dll
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.xml
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\System.Web.Http.SelfHost.xml
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+c:\users\hakkuns\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\Gallery3Selfhost.csprojResolveAssemblyReference.cache
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.dll
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Web.Http.dll
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Web.Http.SelfHost.dll
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Net.Http.Formatting.xml
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Web.Http.xml
+C:\class\sdv701\tutrial3\ConsoleApp2\bin\Debug\System.Web.Http.SelfHost.xml
+C:\class\sdv701\tutrial3\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\class\sdv701\tutrial3\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
